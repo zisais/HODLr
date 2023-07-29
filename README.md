@@ -1,5 +1,4 @@
 # HODLr
-
 Password protected deposits for tokens and ether with time lock feature.
 
 Utils and Interfaces sourced from @OpenZeppelin.
